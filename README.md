@@ -1,9 +1,9 @@
 # credit-risk-classification
-##Task: 
+## Task: 
 - In this Challenge, I have utalised a range of various techniques to train and evaluate a model based on loan risk. 
 - By using a [historical lending dataset](Resources/lending_data.csv) from a peer-to- peer lending services company I have built a model that can identify the creditworthiness of borrowers.
 
-##Steps: 
+## Steps: 
 1. Splitting the Data into Training and TEsting Sets
 2. Creating a Logistic Regression Model with the Original Data
 3. Writing a Credit Risk Analysis [Report](Report.md) .
